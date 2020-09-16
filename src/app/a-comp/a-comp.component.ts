@@ -18,8 +18,5 @@ export class ACompComponent implements OnInit {
         this.router.navigate(['/b', 'zvi']);
     }
 
-    test() {
-
-    }
 
 }
